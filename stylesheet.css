@@ -1,0 +1,22 @@
+body {background: grey; color: lightblue;}
+
+section {
+    margin: 20px;
+    background: lightcoral; 
+    width: 380px; 
+    text-align:center;
+    font-size: medium;
+    color: teal;
+}
+
+.box {border: 5px solid teal;
+    background: lightgrey;
+    width: 450px;}
+
+#headline {
+    font-family: "Arial";
+background-color: teal;
+color: black;}
+
+#bild 
+{text-align:center}
